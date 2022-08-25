@@ -1,0 +1,15 @@
+export default {
+    Logo: require("./logo.png"),
+    LogoTulisan: require("./LogoTulisan.png"),
+    Beranda: require("./beranda.png"),
+    ListBahan: require("./LogoListBahan.png"),
+    Selesai: require("./LogoSelesai.png"),
+    DefaultProfile: require("./defaultprofile.jpeg"),
+    Koki: require("./koki.png"),
+    OnBoarding1: require("./onboard1.png"),
+    OnBoarding2: require("./onboard2.png"),
+    OnBoarding3: require("./onboard3.png"),
+    Back: require("./back.png"),
+    Profile: require("./profil.png"),
+    BahanMakanan: require("./bahanmakanan.png"),
+};
